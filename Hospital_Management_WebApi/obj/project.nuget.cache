@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A5n9Sx9YEskxjlpJ2LJB5+33W5E0RRSs8z5q7mVvo0TY7vOMo6B60N8BVuWgpUQeIAhZ5qHl8cbPjYKitaXoJQ==",
+  "dgSpecHash": "IU4cbDKV84ngVJ00udnyoprH1hE+ug+9VQs8cattyfXnuGqBkvja7fusOXNE2oj1idXRSZFKz3cM9RIisxVd9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anili\\source\\repos\\Hospital_Management_WebApi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj",
+  "projectFilePath": "C:\\Users\\anili\\Source\\Repos\\Hospital-management_webapi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anili\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\anili\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",

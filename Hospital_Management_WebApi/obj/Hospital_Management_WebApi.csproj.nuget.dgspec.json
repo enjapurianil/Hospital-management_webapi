@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anili\\source\\repos\\Hospital_Management_WebApi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj": {}
+    "C:\\Users\\anili\\Source\\Repos\\Hospital-management_webapi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anili\\source\\repos\\Hospital_Management_WebApi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj": {
+    "C:\\Users\\anili\\Source\\Repos\\Hospital-management_webapi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anili\\source\\repos\\Hospital_Management_WebApi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\anili\\Source\\Repos\\Hospital-management_webapi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj",
         "projectName": "Hospital_Management_WebApi",
-        "projectPath": "C:\\Users\\anili\\source\\repos\\Hospital_Management_WebApi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj",
+        "projectPath": "C:\\Users\\anili\\Source\\Repos\\Hospital-management_webapi\\Hospital_Management_WebApi\\Hospital_Management_WebApi.csproj",
         "packagesPath": "C:\\Users\\anili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anili\\source\\repos\\Hospital_Management_WebApi\\Hospital_Management_WebApi\\obj\\",
+        "outputPath": "C:\\Users\\anili\\Source\\Repos\\Hospital-management_webapi\\Hospital_Management_WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anili\\AppData\\Roaming\\NuGet\\NuGet.Config",
